@@ -2,7 +2,7 @@
 - TrainRoutes Solution by John Keyes
 
 ## Summary
-This project is a working solution to problem 3 of the DealerOn coding test. In order to tackle this project, I chose to implement an object oriented design mainly because this is a graph problem and it is important to identify nodes(towns) and references to them.
+This project is a working solution to the trainsystems problem. In order to tackle this project, I chose to implement an object oriented design mainly because this is a graph problem and it is important to identify nodes(towns) and references to them.
 
 Assume every input is through function parameters. There are more details on Program.cs.
 
