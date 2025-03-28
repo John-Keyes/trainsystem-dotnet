@@ -1,5 +1,4 @@
-# DealerOn Test
-- TrainRoutes Solution by John Keyes
+# TrainRoutes Solution by John Keyes
 
 ## Summary
 This project is a working solution to the trainsystems problem. In order to tackle this project, I chose to implement an object oriented design mainly because this is a graph problem and it is important to identify nodes(towns) and references to them.
